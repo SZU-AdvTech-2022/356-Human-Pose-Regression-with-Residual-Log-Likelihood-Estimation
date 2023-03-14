@@ -1,0 +1,6 @@
+@inproceedings{REPO-357,
+    author = "Li, Jiefeng and Bian, Siyuan and Zeng, Ailing and Wang, Can and Pang, Bo and Liu, Wentao and Lu, Cewu",
+    booktitle = "ICCV",
+    title = "{Human Pose Regression with Residual Log-Likelihood Estimation}",
+    year = "2021"
+}
